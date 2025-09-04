@@ -15,9 +15,9 @@ Built with a clean interface using **HTML, CSS, JavaScript**, and styled with cu
 ---
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** Custom CSS with base color `#F6F4EB` and font color `#749BC2`  
-- **Future Scope:** Integration with backend (Node.js / Express & MongoDB) for persistent storage  
+- **Frontend:** HTML, CSS, JavaScript   
+- **Future Scope:** Integration with backend (Node.js / Express) for persistent storage
+- **Database** Mysql
 
 ---
 
@@ -27,9 +27,10 @@ Built with a clean interface using **HTML, CSS, JavaScript**, and styled with cu
 
 ---
 ## Status
-✅ Planning done on Trello
-✅ UI Design in progress (Canva)
-⏳ Development to begin soon
+<ul>
+<li>✅ UI Design in progress (Canva)</li>
+<li>⏳ Development to begin soon</li>
+</ul>
 
 ---
 
